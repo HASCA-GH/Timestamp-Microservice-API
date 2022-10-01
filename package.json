@@ -1,0 +1,26 @@
+{
+  "name": "Timestamp-Microservice-API",
+  "version": "1.0.0",
+  "description": "This API micro service lets you get the time stamp in UTC format (Universal Coordinated Time)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HASCA-GH/Timestamp-Microservice-API.git"
+  },
+  "keywords": [],
+  "author": "Humberto Asca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HASCA-GH/Timestamp-Microservice-API/issues"
+  },
+  "homepage": "https://github.com/HASCA-GH/Timestamp-Microservice-API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
