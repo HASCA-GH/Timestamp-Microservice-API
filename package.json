@@ -4,6 +4,7 @@
   "description": "This API micro service lets you get the time stamp in UTC format (Universal Coordinated Time)",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
